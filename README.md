@@ -10,7 +10,7 @@ None needed, just be sure you have the CDN's in your HTML.
 
 ## Usage
 
-![Website_Screenshot]
+![Website_Screenshot]Assets\Screenshot.png
 
 ## Credits
 
