@@ -10,7 +10,7 @@ None needed, just be sure you have the CDN's in your HTML.
 
 ## Usage
 
-![Website_Screenshot]https://github.com/JacobRyanWillis/Calendar_Planner/blob/53822ae242d390168b0e51e07bb59889cdc32c37/Assets/Screenshot.png
+![Website_Screenshot](https://github.com/JacobRyanWillis/Calendar_Planner/blob/53822ae242d390168b0e51e07bb59889cdc32c37/Assets/Screenshot.png)
 
 ## Credits
 
