@@ -9,6 +9,7 @@ The purpose of this assignment was to get more familiar using API's, jquery, boo
 None needed, just be sure you have the CDN's in your HTML.
 
 ## Usage
+https://jacobryanwillis.github.io/Calendar_Planner/
 
 ![Website_Screenshot](https://github.com/JacobRyanWillis/Calendar_Planner/blob/53822ae242d390168b0e51e07bb59889cdc32c37/Assets/Screenshot.png)
 
